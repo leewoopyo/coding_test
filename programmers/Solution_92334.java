@@ -11,11 +11,7 @@ import java.util.Map;
  */
 public class Solution_92334 {
     
-    /**
-     * 
-     */
-    public int[] question(String[] id_list, String[] report, int k) {
-        int[] answer = {};
+    public int[] solution(String[] id_list, String[] report, int k) {
 
         // 배열 변수인 report의 중복을 제거한다.
         report = Arrays.stream(report).distinct().toArray(String[]::new);
@@ -68,7 +64,6 @@ public class Solution_92334 {
 				}
 			}
         }
-
         
         return result.values().stream().mapToInt(Integer::intValue).toArray();
     }
