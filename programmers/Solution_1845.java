@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * 문제 번호 : Solution_1845
  * 문제명 : 폰켓몬
- * URL : https://programmers.co.kr/learn/courses/30/lessons/1845
+ * URL : https://programmers.co.kr/learn/courses/30/lessons/1845?language=java
  */
 public class Solution_1845 {
     

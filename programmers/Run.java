@@ -2,7 +2,7 @@ import java.util.*;
 public class Run {
     public static void main(String[] args) {
 
-        int solution_no = 1845;
+        int solution_no = 12922;
 
         switch (solution_no) {
             case 92334:     // 신고 결과 받기
@@ -18,6 +18,12 @@ public class Run {
                 Solution_1845 solution_1845 = new Solution_1845();
                 int answer_1845 = solution_1845.solution(nums);
                 System.out.println(answer_1845);
+                break;
+            case 12922:      // 수박수박수박수박수박수?
+                int n = 9;
+                Solution_12922 solution_12922 = new Solution_12922();
+                String answer_12922 = solution_12922.solution(n);
+                System.out.println(answer_12922);
                 break;
         }
 
