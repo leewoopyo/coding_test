@@ -1,5 +1,4 @@
 import java.util.*;
-
 /**
  * 문제 번호 : Solution_12922
  * 문제명 : 수박수박수박수박수박수?

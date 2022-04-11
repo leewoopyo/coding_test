@@ -2,7 +2,7 @@ import java.util.*;
 public class Run {
     public static void main(String[] args) {
 
-        int solution_no = 12922;
+        int solution_no = 12950;
 
         switch (solution_no) {
             case 92334:     // 신고 결과 받기
@@ -25,7 +25,24 @@ public class Run {
                 String answer_12922 = solution_12922.solution(n);
                 System.out.println(answer_12922);
                 break;
+            case 12969:      // 직사각형 별찍기
+                Solution_12969 solution_12969 = new Solution_12969();
+                solution_12969.solution();
+                break;
+            case 12954:      // x만큼 간격이 있는 n개의 숫자
+                int x = 2;
+                int y = 5;
+                Solution_12954 solution_12954 = new Solution_12954();
+                long[] answer_12954 = solution_12954.solution(x, y);
+                System.out.println(Arrays.toString(answer_12954));
+                break;
+            case 12950:      // x만큼 간격이 있는 n개의 숫자
+                int[][] arr1 = {{1,2},{2,3}};
+                int[][] arr2 = {{3,4},{5,6}};
+                Solution_12950 solution_12950 = new Solution_12950();
+                int[][] answer_12950 = solution_12950.solution(arr1, arr2);
+                System.out.println(Arrays.toString(answer_12950));
+                break;
         }
-
     }
 }
