@@ -35,3 +35,21 @@
     Name : 행렬의 덧셈
     URL : https://programmers.co.kr/learn/courses/30/lessons/12950?language=java
     정리 URL : 없음
+    
+7.  Solution_12948
+    Flatform : 프로그래머스
+    Name : 핸드폰 번호 가리기
+    URL : https://programmers.co.kr/learn/courses/30/lessons/12948?language=java
+    정리 URL : 없음
+
+8.  Solution_12947
+    Flatform : 프로그래머스
+    Name : 하샤드 수
+    URL : https://programmers.co.kr/learn/courses/30/lessons/12947?language=java
+    정리 URL : 없음
+
+9.  Solution_12943
+    Flatform : 프로그래머스
+    Name : 콜라츠 추측
+    URL : https://programmers.co.kr/learn/courses/30/lessons/12943?language=java
+    정리 URL : 없음

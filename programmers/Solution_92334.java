@@ -46,7 +46,6 @@ public class Solution_92334 {
                 // reportMap에 타겟과 신고자 리스트를 추가한다.
 				reportMap.put(target, list);
 			}
-
         }
 
         // reportMap을 반복문으로 돌리면서
