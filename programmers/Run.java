@@ -2,7 +2,7 @@ import java.util.*;
 public class Run {
     public static void main(String[] args) {
 
-        int solution_no = 12943;
+        int solution_no = 12940;
 
         switch (solution_no) {
             case 92334:     // 신고 결과 받기
@@ -51,6 +51,12 @@ public class Run {
                 int num = 18;
                 int answer_12943 = new Solution_12943().solution(num);
                 System.out.println(answer_12943);
+                break;
+            case 12940:      //  최대공약수 최소공배수
+                int n_12940 = 2;
+                int m_12940 = 5;
+                int[] answer_12940 = new Solution_12940().solution(n_12940,m_12940);
+                System.out.println(Arrays.toString(answer_12940));
                 break;
         }
     }

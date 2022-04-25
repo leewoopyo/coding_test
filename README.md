@@ -53,3 +53,9 @@
     Name : 콜라츠 추측
     URL : https://programmers.co.kr/learn/courses/30/lessons/12943?language=java
     정리 URL : 없음
+
+10.  Solution_12940
+    Flatform : 프로그래머스
+    Name : 최대공약수, 최소공배수
+    URL : https://programmers.co.kr/learn/courses/30/lessons/12940?language=java
+    정리 URL : 없음
