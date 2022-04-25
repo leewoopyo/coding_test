@@ -59,3 +59,9 @@
     Name : 최대공약수, 최소공배수
     URL : https://programmers.co.kr/learn/courses/30/lessons/12940?language=java
     정리 URL : 없음
+
+11.  Solution_12937
+    Flatform : 프로그래머스
+    Name : 짝수와 홀수
+    URL : https://programmers.co.kr/learn/courses/30/lessons/12937?language=java
+    정리 URL : 없음
